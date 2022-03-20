@@ -25,3 +25,15 @@ body {
   font-size: 0.8em;
   float: left;
 }
+.second_site{
+  position: absolute;
+  color: gold;
+  top: 315px;
+  left: 690px;
+  width: 100px;
+  height: 50px;
+  border-style: outset;
+  padding: 10px;
+  font-size: 0.8em;
+  float: left;
+}
