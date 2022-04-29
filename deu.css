@@ -29,7 +29,20 @@ body {
   position: absolute;
   color: gold;
   top: 315px;
-  left: 690px;
+  left: 757px;
+  width: 100px;
+  height: 50px;
+  border-style: outset;
+  padding: 10px;
+  font-size: 0.8em;
+  float: left;
+}
+
+.second_site2{
+  position: absolute;
+  color: gold;
+  top: 315px;
+  left: 633px;
   width: 100px;
   height: 50px;
   border-style: outset;
